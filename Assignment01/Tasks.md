@@ -40,7 +40,7 @@ Even senior devs (such as I am) google on a daily basis.
 ### Result
 It will only be a white screen, but the HTML holds the important content.
 
-![Blank Screen](res/Result Task 01.jpg)
+![Blank Screen](res/Result%20Task%2001.jpg)
 
 For details check out `solutionT1.html` inside the `Solution` folder.
 
@@ -57,7 +57,7 @@ For details check out `solutionT1.html` inside the `Solution` folder.
 ## Task02 - First Impressions
 ### Result
 
-![Result Task 2](res/Result Task 02.jpg)
+![Result Task 2](res/Result%20Task%2002.jpg)
 
 ### Tasks
 1. Change the title to "Hello World"\
@@ -77,7 +77,7 @@ when you open your HTML file)
 ### Result
 It will only be a white screen containing the heading. The HTML file holds the important changes.
 
-![Result Task 3](res/Result Task 03.jpg)
+![Result Task 3](res/Result%20Task%2003.jpg)
 
 For details check out `solutionT3.html` inside the `Solution` folder.
 
@@ -92,7 +92,7 @@ For details check out `solutionT3.html` inside the `Solution` folder.
 
 ## Task04 - Let the Show Begin 
 ### Result
-![Result Task 4](res/Result Task 04.jpg)
+![Result Task 4](res/Result%20Task%2004.jpg)
 
 ### Tasks
 
@@ -109,7 +109,7 @@ For details check out `solutionT3.html` inside the `Solution` folder.
 
 ### Task05 - 3 Times A Strong "Why"
 ### Result
-![Result Task 5](res/Result Task 05.jpg)
+![Result Task 5](res/Result%20Task%2005.jpg)
 
 ### Tasks
 1. Add a paragraph below your main header
