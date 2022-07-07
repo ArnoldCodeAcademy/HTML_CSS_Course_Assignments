@@ -36,8 +36,8 @@ Even senior devs (such as I am) google on a daily basis.
 <hr>
 
 # Previous Assignments
-- [Assignment 01 - Basics]()
-- [Assignment 02 - Advanced Layouts]()
+- [Assignment 01 - Basics](https://github.com/ArnoldCodeAcademy/HTML_CSS_Course_Assignments/blob/Assignment01/Assignment01/Tasks.md)
+- [Assignment 02 - Advanced Layouts](https://github.com/ArnoldCodeAcademy/HTML_CSS_Course_Assignments/blob/Assignment02/Assignment02/Tasks.md)
 
 # Assigment 03 - Responsive Web Design
 ## Task01 - Boilerplate Actions
