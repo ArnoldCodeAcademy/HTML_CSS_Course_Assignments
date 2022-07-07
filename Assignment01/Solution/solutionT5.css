@@ -1,0 +1,18 @@
+/* if you use CSS tag selectors */
+h1 {
+    font-family: Thankfully, serif; /* serif is the default fallback font */
+    color: blue;
+    text-align: center; /* simple text elements can be placed in the center with text-align */
+}
+
+/* if you want to use a css class */
+
+.headerInBlue {
+    font-family: Thankfully, serif; /* serif is the default fallback font */
+    color: blue;
+}
+
+p {
+    margin: auto; /* Boxes must be placed with another property. Margin:auto is a trick, later on you learn about flexbox and css grid */
+    max-width: 400px;
+}

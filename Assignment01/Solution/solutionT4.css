@@ -1,0 +1,13 @@
+
+/* if you use CSS tag selectors */
+h1 {
+    font-family: Thankfully, serif; /* serif is the default fallback font */
+    color: blue;
+}
+
+/* if you want to use a css class */
+
+.headerInBlue {
+    font-family: Thankfully, serif; /* serif is the default fallback font */
+    color: blue;
+}
