@@ -36,7 +36,7 @@ Even senior devs (such as I am) google on a daily basis.
 <hr>
 
 # Previous Assignments
-- [Assignment 01 - Basics](https://github.com/ArnoldCodeAcademy/HTML_CSS_Course_Assignments/blob/Assignment01/Assignment01/Task/Tasks.md)
+- [Assignment 01 - Basics](https://github.com/ArnoldCodeAcademy/HTML_CSS_Course_Assignments/blob/Assignment01/Assignment01/Tasks.md)
 
 # Assigment 02 - Advanced Layouts
 ## Task01 - Nested Structures
