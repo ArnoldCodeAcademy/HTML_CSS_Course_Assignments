@@ -1,0 +1,88 @@
+/* if you use CSS tag selectors */
+h1 {
+    font-family: Thankfully, serif; /* serif is the default fallback font */
+    color: blue;
+    text-align: center; /* simple text elements can be placed in the center with text-align */
+}
+
+h2 {
+    text-align: center;
+    font-family: "Arial Black", serif;
+}
+
+/* if you want to use a css class */
+
+.headerInBlue {
+    font-family: Thankfully, serif; /* serif is the default fallback font */
+    color: blue;
+}
+
+p {
+    margin: auto; /* Boxes must be placed with another property. Margin:auto is a trick, later on you learn about flexbox and css grid */
+    max-width: 400px;
+}
+
+div{
+    margin-top: 20px;
+}
+
+img {
+    width: 400px;
+}
+
+footer {
+    text-align: center;
+}
+
+.flexContainer {
+    display: flex; /* use display flex to enable flexbox*/
+    flex-direction: row;/* use row to align your items from left to right if p tags are first (if aside comes first, use row-reverse) */
+    flex-wrap: nowrap;/* if your elements would span too much, they shouldn't wrap into next line*/
+    justify-content: center;/* align them centered in line from left to right*/
+    max-width: 600px;/* this is the max width the entire container should have */
+    margin: auto;/* this is a trick I showed you before uncomment this to see the result if not used */
+}
+
+.flexItemAside {
+    width: 20%;/* use this width to make it a nice aside section */
+    box-shadow: inset 5px 0 5px -5px grey;
+    font-style: italic;/* change font to italic so it truly looks like a note*/
+    color: grey;/* */
+}
+
+.flexItemAside > p {
+    margin-left: 10%;/* this is important to have the text set apart from the box-shadow */
+}
+
+
+.verticalFlexContainer {
+    display: flex;/* bring up flex property to enable flexbox */
+    flex-direction: column;/* this time you want to align them vertically */
+    align-items: center;/* and also centered on the vertical axis */
+}
+
+.portrait{
+    transform: scale(0.7)
+}
+
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 812px)
+and (-webkit-device-pixel-ratio : 3) {
+    .flexContainer{
+        flex-direction: column; /* this needs to be column by now to align them vertically */
+        align-items: center; /* centered of course, otherwise it looks off */
+    }
+    .flexItemAside {
+        margin-top: 1rem; /* make a margin between the newly underneath aligned "aside" */
+        width: max-content; /* spread the content across the given space */
+        box-shadow: none; /* remove the left border line, since it isn't fitting anymore */
+    }
+}
+
+.resume{
+    max-width: 500px;
+    width:500px
+}
+
+
