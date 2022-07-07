@@ -6,7 +6,7 @@ These are the assignments of my [HTML & CSS Course]() to sharpen your skills.
 They are public to anyone, so feel free to accomplish them and build your own HTML Resume.
 
 ## Final Result
-![Your Resume](Final Result.gif)
+![Your Resume](Final%20Result.gif)
 <hr>
 
 ## Want More?
