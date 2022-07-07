@@ -41,7 +41,7 @@ Each Assignment has its own branch. Checkout the repo and go into the Assignment
 
 ## Alternatively Links to every Assignment
 
-- [Assignment 01 - Basics]()
+- [Assignment 01 - Basics](https://github.com/ArnoldCodeAcademy/HTML_CSS_Course_Assignments/blob/Assignment01/Assignment01/Task/Tasks.md)
 - [Assignment 02 - Advanced Layouts]()
 - [Assignment 03 - Responsive Web Design]()
 - [Assignment 04 - Create Your Online Resume & Link To Projects]()
